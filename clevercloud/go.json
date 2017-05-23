@@ -1,7 +1,7 @@
 {
     "deploy": {
         "appIsGoPath": true,
-        "main": "besafe",
-        "execDir": "src/besafe"
+        "main": "myapi",
+        "execDir": "src/myapi"
     }
 }

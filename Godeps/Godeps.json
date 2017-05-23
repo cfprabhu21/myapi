@@ -1,0 +1,7 @@
+{
+	"ImportPath": "github.com/Scalingo/sample-go-maritni",
+	"GoVersion": "go1.6",
+	"Packages": [
+		"github.com/fulldump/golax"
+	]
+}
